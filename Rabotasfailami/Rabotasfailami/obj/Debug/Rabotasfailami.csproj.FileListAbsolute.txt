@@ -1,0 +1,10 @@
+C:\Users\Денис\source\repos\Rabotasfailami\Rabotasfailami\bin\Debug\Rabotasfailami.exe.config
+C:\Users\Денис\source\repos\Rabotasfailami\Rabotasfailami\bin\Debug\Rabotasfailami.exe
+C:\Users\Денис\source\repos\Rabotasfailami\Rabotasfailami\bin\Debug\Rabotasfailami.pdb
+C:\Users\Денис\source\repos\Rabotasfailami\Rabotasfailami\obj\Debug\Rabotasfailami.csprojAssemblyReference.cache
+C:\Users\Денис\source\repos\Rabotasfailami\Rabotasfailami\obj\Debug\Rabotasfailami.Form1.resources
+C:\Users\Денис\source\repos\Rabotasfailami\Rabotasfailami\obj\Debug\Rabotasfailami.Properties.Resources.resources
+C:\Users\Денис\source\repos\Rabotasfailami\Rabotasfailami\obj\Debug\Rabotasfailami.csproj.GenerateResource.cache
+C:\Users\Денис\source\repos\Rabotasfailami\Rabotasfailami\obj\Debug\Rabotasfailami.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\Rabotasfailami\Rabotasfailami\obj\Debug\Rabotasfailami.exe
+C:\Users\Денис\source\repos\Rabotasfailami\Rabotasfailami\obj\Debug\Rabotasfailami.pdb
