@@ -1,0 +1,10 @@
+C:\Users\Денис\source\repos\Datetask\Datetask\bin\Debug\Datetask.exe.config
+C:\Users\Денис\source\repos\Datetask\Datetask\bin\Debug\Datetask.exe
+C:\Users\Денис\source\repos\Datetask\Datetask\bin\Debug\Datetask.pdb
+C:\Users\Денис\source\repos\Datetask\Datetask\obj\Debug\Datetask.csprojAssemblyReference.cache
+C:\Users\Денис\source\repos\Datetask\Datetask\obj\Debug\Datetask.Form1.resources
+C:\Users\Денис\source\repos\Datetask\Datetask\obj\Debug\Datetask.Properties.Resources.resources
+C:\Users\Денис\source\repos\Datetask\Datetask\obj\Debug\Datetask.csproj.GenerateResource.cache
+C:\Users\Денис\source\repos\Datetask\Datetask\obj\Debug\Datetask.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\Datetask\Datetask\obj\Debug\Datetask.exe
+C:\Users\Денис\source\repos\Datetask\Datetask\obj\Debug\Datetask.pdb
